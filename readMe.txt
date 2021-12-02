@@ -1,5 +1,5 @@
 Title: Tracker 
-By: Akshat S, Altamish L
+By: Akshat Sawraj
 Description:
  Tracker is a program that can read .txt files and 
  scan through every word for unique information. 
